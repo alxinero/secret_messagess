@@ -5,12 +5,10 @@ body {
 h1 {
   color: #ffe9ad;
   text-align: center;
-  font-size: 5vw;
 }
 p {
   color: #ffe9ad;
   text-align: center;
-  font-size: 3vw;
 }
 .message {
   
@@ -18,7 +16,7 @@ p {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 2vw;
+  font-size: 1.4vw;
   text-indent: 20px;
   line-height: 1vh;
   pointer-events: none;
