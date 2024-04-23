@@ -5,12 +5,10 @@ body {
 h1 {
   color: #ffe9ad;
   text-align: center;
-  font-size: 3vw;
 }
 p {
   color: #ffe9ad;
   text-align: center;
-  font-size: 2vw;
 }
 .message {
   
@@ -18,7 +16,7 @@ p {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 1vw;
+  font-size: 1.4vw;
   text-indent: 20px;
   line-height: 1vh;
   pointer-events: none;
@@ -31,8 +29,8 @@ p {
   position: absolute;
   top: 8px;
   z-index: 9;
-  width: 13vw;
-  height: 13vw;
+  width: 10vw;
+  height: 10vw;
   background-color: #ffff00;
   border-radius: 50%;
   text-align: center;
@@ -52,7 +50,7 @@ p {
 }
 span {
   position: absolute;
-  top: -13.5%;
-  left: -13.5%;
-  font-size: 20vw;
+  top: -10.5%;
+  left: -10.5%;
+  font-size: 10vw;
 }
